@@ -2,4 +2,4 @@
 
 readme.md **readme.md** _readme.md_, ok?
 
-[Open other page](page)
+[Other page](other-page)
